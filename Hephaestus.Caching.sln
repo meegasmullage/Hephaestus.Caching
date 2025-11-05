@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hephaestus.Caching.Memcached", "Hephaestus.Caching.Memcached\Hephaestus.Caching.Memcached.csproj", "{356E3776-6D98-446E-86E5-49BD18EFB6DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hephaestus.Caching.Sandbox", "Hephaestus.Caching.Sandbox\Hephaestus.Caching.Sandbox.csproj", "{AD4211E1-FC7A-468D-8247-8B7B52514319}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{356E3776-6D98-446E-86E5-49BD18EFB6DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{356E3776-6D98-446E-86E5-49BD18EFB6DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{356E3776-6D98-446E-86E5-49BD18EFB6DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{356E3776-6D98-446E-86E5-49BD18EFB6DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD4211E1-FC7A-468D-8247-8B7B52514319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD4211E1-FC7A-468D-8247-8B7B52514319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD4211E1-FC7A-468D-8247-8B7B52514319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD4211E1-FC7A-468D-8247-8B7B52514319}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BD520E9-6194-46D4-A0A4-A6FC0ED3000D}
+	EndGlobalSection
+EndGlobal
