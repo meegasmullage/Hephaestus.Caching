@@ -3,6 +3,8 @@
 	<PropertyGroup>
 		<TargetFramework>net8.0</TargetFramework>
 		<Nullable>disable</Nullable>
+    <RepositoryUrl>https://github.com/meegasmullage/Hephaestus.Caching</RepositoryUrl>
+    <PackageDescription>A .NET client implemented for Memcached</PackageDescription>
 	</PropertyGroup>
 
 	<ItemGroup>
